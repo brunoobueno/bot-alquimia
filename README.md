@@ -7,7 +7,7 @@
 
 ### O que é?
 
-- Bot para whatsApp simples criado para uma Loja de Artigos Religiosos.
+- Bot para whatsApp simples criado para Alquimia Indústria e Comércio LTDA.
     <br/>  <br/>
 <p>
   
